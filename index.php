@@ -15,7 +15,7 @@
         </ul>
     </nav>
     <section>
-        <h1>Selamat Datang di Web PHP Sederhana!</h1>
+        <h1>Hallo, Selamat Datang di Web PHP Sederhana!</h1>
         <p>Ini adalah contoh web UI sederhana menggunakan PHP 8.</p>
     </section>
 </body>
